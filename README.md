@@ -1,5 +1,4 @@
-# KZdizel
-Dizel        <h2>Biz haqimizda</h2>
+<h2>Biz haqimizda</h2>
         <p>KZdizel - sizning hududingizda tez va ishonchli dizel yetkazib berish xizmati. </p>
     </section>
     <section id="calculator">
